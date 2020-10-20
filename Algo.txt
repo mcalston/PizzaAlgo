@@ -6,4 +6,7 @@
     4b. Pay at door
 5. Wait for delivery
 6. Greet delivery driver
-7) See step 4b if necessary    
+7) See step 4b if necessary   
+8) Get a refund 
+9) Call up another pizza spot
+10) ...or get tacos
